@@ -94,7 +94,3 @@ Comparison of sales/order contribution across:
 ## Project Type
 
 **Data Analytics / Business Intelligence — Excel**
-
----
-
-If you found this project useful, feel free to explore the repository and connect with me on LinkedIn.
