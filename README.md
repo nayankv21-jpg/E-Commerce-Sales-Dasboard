@@ -80,29 +80,6 @@ Comparison of sales/order contribution across:
 * **Female customers** accounted for the largest share of purchases by gender.
 * The dashboard provides a clear view of weekly fluctuations in sales and quantity.
 
-## Dashboard Preview
-
-Add a screenshot of your dashboard here.
-
-```text
-![Dashboard Preview](screenshots/dashboard.png)
-```
-
-## Project Files
-
-| File                             | Description                                     |
-| -------------------------------- | ----------------------------------------------- |
-| `Ecommerce_Sales_Dashboard.xlsx` | Interactive Excel dashboard and underlying data |
-| `screenshots/dashboard.png`      | Dashboard preview                               |
-
-## How to Use
-
-1. Download the `.xlsx` file.
-2. Open it using Microsoft Excel.
-3. Navigate to the Dashboard sheet.
-4. Use the available slicers and interactive elements to filter the analysis.
-5. Explore the Pivot Tables and underlying data if required.
-
 ## Skills Demonstrated
 
 * Data Analysis
